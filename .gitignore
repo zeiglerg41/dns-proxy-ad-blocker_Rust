@@ -1,0 +1,19 @@
+PROJECT_SPEC.md
+
+# Rust build output
+target/
+Cargo.lock
+
+# Editor & IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
